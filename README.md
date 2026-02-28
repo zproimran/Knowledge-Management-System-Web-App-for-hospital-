@@ -393,7 +393,7 @@ API integration
 
 👨‍💻 Developer Information
 
-Name: Imran Gemechu Getana
+Name: Kebena Gemechu Getana
 Degree: BSc in Computer Science
 Specialization: Full-Stack Web Development
 Technologies: PHP, Java (Spring Boot), MySQL, JavaScript
